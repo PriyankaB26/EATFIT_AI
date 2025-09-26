@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/59f57df8-aa60-40c8-a444-127f9c534ac0
 ## Implementation
 
 <p align="center">
-  <img src="Implementation/Admin Dashboard.png" alt="Admin Dashboard" width="200"/>
+  
   <img src="Implementation/Admin.png" alt="Admin" width="200"/>
   <img src="Implementation/All categories.png" alt="All categories" width="200"/>
   <img src="Implementation/allergy_scanner.png" alt="Allergy Scanner" width="200"/>
@@ -40,6 +40,7 @@ https://github.com/user-attachments/assets/59f57df8-aa60-40c8-a444-127f9c534ac0
 <p align="center">
   <img src="Implementation/product nutrition details.png" alt="Product Nutrition Details" width="200"/>
   <img src="Implementation/product_nut.png" alt="Product Nut" width="200"/>
+  <img src="Implementation/Admin Dashboard.png" alt="Admin Dashboard" width="200"/>
 </p>
 
 ## 📋 Table of Contents
