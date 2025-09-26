@@ -15,10 +15,10 @@ EatFit is a comprehensive Flask-based web application designed to help users ana
 - ⚠️ **Allergen Detection** - Identify potential allergens in food products
 - 🥗 **Healthier Alternatives** - Discover better options for your favorite foods
 - 🥦 **Personalized Diet Plans** - Get AI-powered meal recommendations
-- 🧮 **BMI & Health Tracking** - Monitor your health metrics
+- 🧮 **Admin Panel** - Addition of new products
 
-## 📸 App Screenshots
-
+## Implementation
+[Demo Video](Eatfit Demo.mp4)
 <p><strong>Food Product Analysis & Barcode Scanning</strong></p>
   
 <p><strong>Alternative Product Recommendations</strong></p>
