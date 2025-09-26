@@ -15,39 +15,30 @@ EatFit is a comprehensive Flask-based web application designed to help users ana
 - ⚠️ **Allergen Detection** - Identify potential allergens in food products
 - 🥗 **Healthier Alternatives** - Discover better options for your favorite foods
 - 🥦 **Personalized Diet Plans** - Get AI-powered meal recommendations
-- 🧮 **Admin Panel** - Addition of new products
+-  **Admin Panel** - Addition of new products
 
 ## Implementation
 
 https://github.com/user-attachments/assets/59f57df8-aa60-40c8-a444-127f9c534ac0
 
-## Implementation
-
 <p align="center">
-  
-  <img src="Implementation/Admin.png" alt="Admin" width="200"/>
-  <img src="Implementation/All categories.png" alt="All categories" width="200"/>
-  <img src="Implementation/allergy_scanner.png" alt="Allergy Scanner" width="200"/>
+  <img src="Implementation/analysis.png" alt="Analysis" width="600"/>
 </p>
 
 <p align="center">
-  <img src="Implementation/analysis.png" alt="Analysis" width="200"/>
-  <img src="Implementation/cart.png" alt="Cart" width="200"/>
-  <img src="Implementation/diet_recom.png" alt="Diet Recommendation" width="200"/>
-  <img src="Implementation/nutrition.png" alt="Nutrition" width="200"/>
+  <img src="Implementation/allergy_scanner.png" alt="Allergy Scanner" width="400"/>
 </p>
 
 <p align="center">
-  <img src="Implementation/product nutrition details.png" alt="Product Nutrition Details" width="200"/>
-  <img src="Implementation/product_nut.png" alt="Product Nut" width="200"/>
-  <img src="Implementation/Admin Dashboard.png" alt="Admin Dashboard" width="200"/>
+  <img src="Implementation/diet_recom.png" alt="Diet Recommendation" width="400"/>
 </p>
+
 
 ## 📋 Table of Contents
 
 - [🍽️ EatFit - Food Review \& Nutrition Helper](#️-eatfit---food-review--nutrition-helper)
   - [✨ Key Features](#-key-features)
-  - [Implementation](#Implementation)
+  - [Implementation](#implementation)
   - [📋 Table of Contents](#-table-of-contents)
   - [🔎 How Food Review Works](#-how-food-review-works)
   - [📁 Project Structure](#-project-structure)
