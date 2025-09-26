@@ -122,7 +122,7 @@ def get_alternatives_by_category(barcode, current_grade):
                     'json': 1
                 }
                 
-                search_response = requests.get(search_url, params=params, timeout=15)
+                search_response = requests.get(search_url, params=params, timeout=30)
                 
                 if search_response.status_code != 200:
                     continue

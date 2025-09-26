@@ -53,13 +53,13 @@ _, _, yl_train, yl_test = train_test_split(X, y_lunch, test_size=0.2, random_sta
 _, _, yd_train, yd_test = train_test_split(X, y_dinner, test_size=0.2, random_state=42)
 
 # Train Random Forest Models
-rf_breakfast = RandomForestClassifier(n_estimators=200, random_state=42)
+rf_breakfast = RandomForestClassifier(n_estimators=50, random_state=42)
 rf_breakfast.fit(X_train, yb_train)
 
-rf_lunch = RandomForestClassifier(n_estimators=200, random_state=42)
+rf_lunch = RandomForestClassifier(n_estimators=50, random_state=42)
 rf_lunch.fit(X_train, yl_train)
 
-rf_dinner = RandomForestClassifier(n_estimators=200, random_state=42)
+rf_dinner = RandomForestClassifier(n_estimators=50, random_state=42)
 rf_dinner.fit(X_train, yd_train)
 
 # Save Models & Encoders

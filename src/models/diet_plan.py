@@ -15,14 +15,14 @@ try:
     rf_lunch = joblib.load(os.path.join(project_root, "rf_lunch.pkl"))
     rf_dinner = joblib.load(os.path.join(project_root, "rf_dinner.pkl"))
     label_encoders = joblib.load(os.path.join(project_root, "label_encoders.pkl"))
-    print("✅ Model files loaded successfully!")
+    print("Model files loaded successfully!")
     
     # Get known diseases from the encoder
     available_diseases = list(label_encoders["Diseases"].classes_)
-    print(f"🩺 Available Diseases: {available_diseases}")
+    print(f" Available Diseases: {available_diseases}")
     
 except FileNotFoundError as e:
-    print(f"❌ Model file missing: {e}")
+    print(f"Model file missing: {e}")
     print(f"Current directory: {os.getcwd()}")
     print(f"Looking in: {project_root}")
     print("Files in root directory:")
