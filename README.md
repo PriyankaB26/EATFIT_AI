@@ -22,6 +22,10 @@ EatFit is a comprehensive Flask-based web application designed to help users ana
 https://github.com/user-attachments/assets/59f57df8-aa60-40c8-a444-127f9c534ac0
 
 <p align="center">
+  <img src="Sys Design.png" alt="Analysis" width="600"/>
+</p>
+
+<p align="center">
   <img src="Implementation/analysis.png" alt="Analysis" width="600"/>
 </p>
 
