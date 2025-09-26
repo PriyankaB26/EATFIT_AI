@@ -21,18 +21,25 @@ EatFit is a comprehensive Flask-based web application designed to help users ana
 
 https://github.com/user-attachments/assets/59f57df8-aa60-40c8-a444-127f9c534ac0
 
+## Implementation
+
 <p align="center">
-  <img src="Admin Dashboard.png" alt="Admin Dashboard" width="200"/>
-  <img src="Admin.png" alt="Admin" width="200"/>
-  <img src="All categories.png" alt="All categories" width="200"/>
-  <img src="allergy_scanner.png" alt="Allergy Scanner" width="200"/>
+  <img src="Implementation/Admin Dashboard.png" alt="Admin Dashboard" width="200"/>
+  <img src="Implementation/Admin.png" alt="Admin" width="200"/>
+  <img src="Implementation/All categories.png" alt="All categories" width="200"/>
+  <img src="Implementation/allergy_scanner.png" alt="Allergy Scanner" width="200"/>
 </p>
-  
+
 <p align="center">
-  <img src="analysis.png" alt="Analysis" width="200"/>
-  <img src="cart.png" alt="Cart" width="200"/>
-  <img src="diet_recom.png" alt="Diet Recommendation" width="200"/>
-  <img src="nutrition.png" alt="Nutrition" width="200"/>
+  <img src="Implementation/analysis.png" alt="Analysis" width="200"/>
+  <img src="Implementation/cart.png" alt="Cart" width="200"/>
+  <img src="Implementation/diet_recom.png" alt="Diet Recommendation" width="200"/>
+  <img src="Implementation/nutrition.png" alt="Nutrition" width="200"/>
+</p>
+
+<p align="center">
+  <img src="Implementation/product nutrition details.png" alt="Product Nutrition Details" width="200"/>
+  <img src="Implementation/product_nut.png" alt="Product Nut" width="200"/>
 </p>
 
 ## 📋 Table of Contents
