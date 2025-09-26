@@ -20,17 +20,26 @@ EatFit is a comprehensive Flask-based web application designed to help users ana
 ## Implementation
 
 https://github.com/user-attachments/assets/59f57df8-aa60-40c8-a444-127f9c534ac0
-<p><strong>Food Product Analysis & Barcode Scanning</strong></p>
+
+<p align="center">
+  <img src="Admin Dashboard.png" alt="Admin Dashboard" width="200"/>
+  <img src="Admin.png" alt="Admin" width="200"/>
+  <img src="All categories.png" alt="All categories" width="200"/>
+  <img src="allergy_scanner.png" alt="Allergy Scanner" width="200"/>
+</p>
   
-<p><strong>Alternative Product Recommendations</strong></p>
-  
-<p><strong>Personalized Diet Plans</strong></p>
+<p align="center">
+  <img src="analysis.png" alt="Analysis" width="200"/>
+  <img src="cart.png" alt="Cart" width="200"/>
+  <img src="diet_recom.png" alt="Diet Recommendation" width="200"/>
+  <img src="nutrition.png" alt="Nutrition" width="200"/>
+</p>
 
 ## 📋 Table of Contents
 
 - [🍽️ EatFit - Food Review \& Nutrition Helper](#️-eatfit---food-review--nutrition-helper)
   - [✨ Key Features](#-key-features)
-  - [Implementation](#-Implementation)
+  - [Implementation](#Implementation)
   - [📋 Table of Contents](#-table-of-contents)
   - [🔎 How Food Review Works](#-how-food-review-works)
   - [📁 Project Structure](#-project-structure)
